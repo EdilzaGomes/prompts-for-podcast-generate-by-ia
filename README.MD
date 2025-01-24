@@ -1,3 +1,4 @@
+/storage/emulated/0/Movies/Canva/Parabéns por iniciar seu primeiro podcast, _Front_ende refinado_! Criar um _20250124_131526_0002.mp4
 ### Podcast: **Front-End Refinado**
 
 #### Episódio 1: Introdução ao Podcast
