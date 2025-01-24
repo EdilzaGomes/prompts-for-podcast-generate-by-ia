@@ -1,6 +1,8 @@
 ### Podcast: **Front-End Refinado**
 
 #### Episódio 1: Introdução ao Podcast
+capa:/storage/emulated/0/Pictures/Canva/1_20250124_073110_0000.jpg
+
 **Apresentador:** Bem-vindos ao "Front-End Refinado", o podcast onde exploramos o mundo do desenvolvimento front-end de forma elegante e educativa. Eu sou Edilza Gomes, sua anfitriã, e hoje temos uma convidada especial, Márcia Melody, uma desenvolvedora front-end sênior com vasta experiência em projetos inovadores. Seja muito bem-vinda, Márcia!
 
 **Convidada:** Obrigada, Edilza! É um prazer estar aqui no "Front-End Refinado".
