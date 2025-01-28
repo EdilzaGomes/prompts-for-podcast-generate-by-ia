@@ -1,5 +1,5 @@
 # Projeto: Organização de Vida com Jesus
-
+https://www.canva.com/design/DAF4ioGC_Mg/Egiwbk2d6sxdRsVH_ZghsA/edit?utm_content=DAF4ioGC_Mg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Descrição
 Este livro é um guia transformador destinado a trazer esperança e renovação para aqueles que se sentem oprimidos. Com uma mensagem poderosa de fé e reflexão, ele desafia os leitores a considerarem sua jornada espiritual e seu relacionamento com Deus. 
 
